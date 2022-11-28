@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TYRNINE
-- 👀 I’m interested in Game development/programming
+- 👀 I’m interested in Ar/Vr and Game development
 - 🌱 I’m currently learning c++,untity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
